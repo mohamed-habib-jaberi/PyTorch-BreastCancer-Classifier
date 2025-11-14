@@ -1,0 +1,13 @@
+datasets
+matplotlib
+pandas
+pillow
+torch
+torchaudio
+torchvision
+torchmetrics
+scipy
+opencv-python
+setuptools
+seaborn
+ultralytics
